@@ -1,9 +1,9 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+hide-time-and-seekbar
+enable-wide-searchbar
+hide-shorts-button
+hide-create-button
+hide-email-address
+premium-heading
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-return-youtube-dislike
-theme
-custom-branding
-old-quality-layout
-general-ads
-video-ads
